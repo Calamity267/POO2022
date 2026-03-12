@@ -1,0 +1,5 @@
+﻿  lab31.cpp
+  Math.cpp
+  Generating Code...
+C:\Users\ancyc\source\repos\lab31\lab31\Math.cpp(37,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab31.vcxproj -> C:\Users\ancyc\source\repos\lab31\x64\Debug\lab31.exe
