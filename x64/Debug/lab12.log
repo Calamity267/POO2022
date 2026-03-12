@@ -1,0 +1,4 @@
+﻿  lab12.cpp
+C:\Users\ancyc\source\repos\lab12\lab12\lab12.cpp(25,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ancyc\source\repos\lab12\lab12\lab12.cpp(26,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab12.vcxproj -> C:\Users\ancyc\source\repos\lab12\x64\Debug\lab12.exe
